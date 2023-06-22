@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b043bbea-f072-4aaa-847d-cb94a11d4ac6" name="Changes" comment="commit 3 clases del diagrama de clases">
+    <list default="true" id="b043bbea-f072-4aaa-847d-cb94a11d4ac6" name="Changes" comment="commit 4 faltaban agregar los arraylist y algunos atributos ya que modifique el uml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Catalogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Catalogo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Computador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Computador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DispositivoTecnologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DispositivoTecnologico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pantalla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Pantalla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tienda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,13 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687463596470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 4 faltaban agregar los arraylist y algunos atributos ya que modifique el uml">
+      <created>1687463902719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687463902719</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 01" />
     <MESSAGE value="commit 01 new branche" />
     <MESSAGE value="commit 3 clases del diagrama de clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 3 clases del diagrama de clases" />
+    <MESSAGE value="commit 4 faltaban agregar los arraylist y algunos atributos ya que modifique el uml" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4 faltaban agregar los arraylist y algunos atributos ya que modifique el uml" />
   </component>
 </project>

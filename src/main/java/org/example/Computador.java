@@ -6,4 +6,5 @@ public class Computador extends DispositivoTecnologico {
 	private String chasis;
 	public Pantalla pantalla;
 
+
 }
