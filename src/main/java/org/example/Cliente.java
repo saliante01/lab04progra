@@ -8,5 +8,6 @@ public class Cliente {
 	private String contacto;
 	private String estadoCivil;
 	private String ciudad;
+	public Tienda tienda;
 
 }

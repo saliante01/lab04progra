@@ -7,8 +7,9 @@ public class DispositivoTecnologico {
 	private String memoriaROM;
 	private String procesador;
 	private String modelo;
-	private String añoFabricacion;
+	private String anoFabricacion;
 	private int precio;
 	private int stock;
+	public Tienda tienda;
 
 }

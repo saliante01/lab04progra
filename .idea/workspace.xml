@@ -4,14 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b043bbea-f072-4aaa-847d-cb94a11d4ac6" name="Changes" comment="" />
+    <list default="true" id="b043bbea-f072-4aaa-847d-cb94a11d4ac6" name="Changes" comment="commit 3 clases del diagrama de clases">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Computador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Computador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DispositivoTecnologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DispositivoTecnologico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pantalla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Pantalla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tablet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tienda.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,9 +52,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/sebas/IdeaProjects/lab04/src/main/java/org/example"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebas\IdeaProjects\lab04\src\main\java\org\example" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +71,41 @@
       <option name="presentableId" value="Default" />
       <updated>1687458807344</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit 01">
+      <created>1687458838629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687458838629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 01 new branche">
+      <created>1687459035904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687459035904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 3 clases del diagrama de clases">
+      <created>1687462976531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687462976531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 3 clases del diagrama de clases">
+      <created>1687463596470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687463596470</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 01" />
+    <MESSAGE value="commit 01 new branche" />
+    <MESSAGE value="commit 3 clases del diagrama de clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3 clases del diagrama de clases" />
   </component>
 </project>
